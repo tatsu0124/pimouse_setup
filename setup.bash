@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-#Written by Tatsuya Ito
+#witten by T.i
 
 exec 2> /tmp/setup.log
 
