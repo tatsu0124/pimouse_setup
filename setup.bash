@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-
+#witten by T.i
 exec 2> /tmp/setup.log
 
 cd /home/ubuntu/RaspberryPiMouse/src/drivers/
